@@ -9,6 +9,7 @@ NLP Pipeline: Utilized TF-IDF Vectorization with a custom-filtered vocabulary (f
 Class Imbalance Handling: Implemented weighted Logistic Regression (2:1 Ham/Spam penalty) to prioritize minimizing "False Positives"—ensuring legitimate emails are not accidentally discarded.
 
 
-![](images/top-20-spam-words.png)
+![](images/top-20-spam-words.png, width=500)
+
 
 Feature Analysis: Extracted and visualized model coefficients to identify the top 20 keywords most indicative of spam.
